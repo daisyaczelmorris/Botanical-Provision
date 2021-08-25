@@ -247,3 +247,59 @@ System memory in use after: 101.8 MB.
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2196.
 Total: 1.699200 ms (FindLiveObjects: 0.183600 ms CreateObjectMapping: 0.063100 ms MarkObjects: 1.378900 ms  DeleteObjects: 0.072600 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 472.877892 seconds.
+  path: Assets/_TerrainAutoUpgrade
+  artifactKey: Guid(715a665b855631c41a1c3e0f5770c93f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade using Guid(715a665b855631c41a1c3e0f5770c93f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59f83105ae7e5ac1b6ec6abcd1997e0d') in 0.007754 seconds
+  Import took 0.010537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.076765 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Grass (Hill)Grass (Hill)_normalb956af97c33fc3d7.terrainlayer
+  artifactKey: Guid(531bd544522bd1f448b330c34ae7b404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Grass (Hill)Grass (Hill)_normalb956af97c33fc3d7.terrainlayer using Guid(531bd544522bd1f448b330c34ae7b404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f8c1112badbb76f1b428a2c490efe4b') in 0.033110 seconds
+  Import took 0.035425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Grass (Muddy)Grass (Muddy)_normalb956af97c33fc3d7.terrainlayer
+  artifactKey: Guid(5c0cf9cfeadc2ac40a438f073fe97e49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Grass (Muddy)Grass (Muddy)_normalb956af97c33fc3d7.terrainlayer using Guid(5c0cf9cfeadc2ac40a438f073fe97e49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5430bfbcd9c35bc6562b920bde224058') in 0.009390 seconds
+  Import took 0.011509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_SandAlbedo3d3aba195e4d26ee.terrainlayer
+  artifactKey: Guid(34dd0d2367a15514690a9bf5aaa14106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_SandAlbedo3d3aba195e4d26ee.terrainlayer using Guid(34dd0d2367a15514690a9bf5aaa14106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ffd93698269059135c7211a70be8d3a') in 0.008821 seconds
+  Import took 0.011269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Grass&RockGrass&Rock_normalb956af97c33fc3d7.terrainlayer
+  artifactKey: Guid(1f6138d8820a4c64ab65cfc33edb9209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Grass&RockGrass&Rock_normalb956af97c33fc3d7.terrainlayer using Guid(1f6138d8820a4c64ab65cfc33edb9209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e53ff24f6fe5eb5f060a802cd3c4422e') in 0.009224 seconds
+  Import took 0.011439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Grass (Meadows)Grass (Meadows)_normalb956af97c33fc3d7.terrainlayer
+  artifactKey: Guid(cce622328e790274aadc94f6ef1e0562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Grass (Meadows)Grass (Meadows)_normalb956af97c33fc3d7.terrainlayer using Guid(cce622328e790274aadc94f6ef1e0562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de0f46882ced61bf698bab9ac620881b') in 0.010582 seconds
+  Import took 0.012793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011151 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Grass&RockGrass&Rock_normalb956af97c33fc3d7.terrainlayer
+  artifactKey: Guid(1f6138d8820a4c64ab65cfc33edb9209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Grass&RockGrass&Rock_normalb956af97c33fc3d7.terrainlayer using Guid(1f6138d8820a4c64ab65cfc33edb9209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e53ff24f6fe5eb5f060a802cd3c4422e') in 0.003021 seconds
+  Import took 0.005330 seconds .
+
