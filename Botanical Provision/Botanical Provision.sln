@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UMA_Core", "UMA_Core.csproj", "{A5F46FA2-18F5-943B-F927-6A472042048E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UMA_Examples", "UMA_Examples.csproj", "{7A7BA324-2343-CEE4-998A-A81A859A91BE}"
